@@ -81,8 +81,3 @@ function calcBonus(employeeInfo) {
   }
   return bonusPer;
 }
-
-
-console.log(calcBonus(tim));
-console.log(calcBonus(billy));
-console.log(calcBonus(margaret));
